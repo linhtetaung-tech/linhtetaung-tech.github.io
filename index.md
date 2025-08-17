@@ -1,6 +1,6 @@
 # Lin Htet's Portfolio
 
-![Portrait photo](/assets/LinHtet.jpg){: style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;" }
+![Portrait photo](/assets/LinHtet.png){: style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;" }
 
 Quick links:
 
@@ -15,7 +15,7 @@ Quick links:
 
 I’m a tech enthusiast who enjoys working at the intersection of Finance and Technology. 
 
-- What I’m into: web apps, data, automation, and thoughtful UI.
+- What I’m into: web apps, data, automation, finance and technology.
 - Fun fact: I enjoy hiking, hanging out with friends, and working out.
 
 ---
