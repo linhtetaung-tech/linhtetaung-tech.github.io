@@ -72,7 +72,7 @@ Cloud & Deployment: Docker, Netlify, Firebase, AWS, Azure.
 Below is an embedded view. Please use the direct link.
 
 <iframe
-  src="https://drive.google.com/file/d/1TeUO3YjFZUXi8kUngn1do219JXmiGZuv/view?usp=sharing"
+  src="https://drive.google.com/file/d/1myhW7zSjvnG9iX67CgkkAvxl18TiKZKq/view?usp=sharing"
   width="100%"
   height="880"
   style="border:1px solid #e5e7eb;border-radius:10px;"
